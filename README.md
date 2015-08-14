@@ -4,14 +4,13 @@ A curated list of awesome Ableton-related resources, including tutorials, commun
 ### Contents
 - [Getting Started](#getting-started)
   - [Ableton Communities](#ableton-communities)
-  - [Helpful Support Articles](#helpful-support-articles)
 - [Instruments](#instruments)
   - [Operator](#operator)
 - [Audio Effects](#audio-effects)
 - [Packs](#packs)
 - [Push](#push)
 - [max4live](#max4live)
-- [Addons](#addons)
+- [Scripting Live](#scripting-live)
 
 # Getting Started
 * [Ableton Homepage](https://www.ableton.com/) - Official Ableton news, etc.
@@ -21,9 +20,6 @@ A curated list of awesome Ableton-related resources, including tutorials, commun
 ## Ableton Communities
 * [Ableton Subreddit](https://www.reddit.com/r/ableton) - Largest Subreddit.
 * [AbletonLive Subreddit](https://www.reddit.com/r/abletonlive) - Second largest Subreddit.
-
-## Helpful Support Articles
-* [Third Party Scripts](#third-party-scripts) - How to install third party scripts.
 
 # Instruments
 
@@ -51,5 +47,7 @@ A curated list of awesome Ableton-related resources, including tutorials, commun
 * [max4live.com](http://maxforlive.com/) - The central repository of user-created M4L devices.
 * [Max/MSP Subreddit](https://www.reddit.com/r/MaxMSP/) - Max/MSP focused Subreddit. Also discusses M4L.
 
-# Addons
+## Scripting Live
+* [Installing Third Party Scripts](#third-party-scripts) - How to install third party scripts.
+* [Live 9.2 API Documentation](http://julienbayle.net/PythonLiveAPI_documentation/Live9.2.xml) - Python API.
 * [ClyphX](http://beatwise.proboards.com/thread/992/current-version-clyphx-live-8) - Library of clips that may automate Live itself.
