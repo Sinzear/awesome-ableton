@@ -19,6 +19,7 @@ A curated list of awesome Ableton-related resources, including tutorials, commun
 * [Ableton Homepage](https://www.ableton.com/) - Official Ableton news, etc.
 * [Download Live](https://www.ableton.com/en/trial/) - Links to downloads for all platforms.
 * [Official Forums](https://forum.ableton.com/) - Ableton's official forum.
+* [User Groups](https://www.ableton.com/en/community/user-groups) - Official listing of Ableton User Groups.
 
 ## Ableton Communities
 * [Ableton Subreddit](https://www.reddit.com/r/ableton) - Largest Subreddit.
