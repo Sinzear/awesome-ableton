@@ -45,5 +45,5 @@ A curated list of awesome Ableton-related resources, including tutorials, commun
 * [Cycling '74 M4L Support Forums](https://cycling74.com/forums/forum/max/#gsc.tab=0) - Official C74 forums for M4L.
 * [Learning M4L (Eric Ameres)](https://www.youtube.com/watch?v=gP0hjBvi0NY&list=PL592456DB33616258) - A video series covering M4L basics.
 * [Building a virtual analog synth (Eric Ameres)](https://www.youtube.com/watch?v=W2uUbKaZ_9E&list=PL6CE63AB005E84E10) - A walkthrough to building an analog-style synthesizer in M4L.
-* [max4live.com User contributed devices](http://maxforlive.com/) - The central repository of user-created M4L devices.
+* [max4live.com](http://maxforlive.com/) - The central repository of user-created M4L devices.
 * [Max/MSP Subreddit](https://www.reddit.com/r/MaxMSP/) - Max/MSP focused Subreddit. Also discusses M4L.
