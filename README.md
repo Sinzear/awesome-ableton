@@ -39,7 +39,9 @@ A curated list of awesome Ableton-related resources, including tutorials, commun
 
 # Push
 * [Push Homepage](https://www.ableton.com/en/push/) - Homepage for Ableton Push.
+* [Learn Push](https://www.ableton.com/en/help/learn-push/) - Videos for learning how to use Push.
 * [Custom Push Scripts (parabuzzle)](https://github.com/parabuzzle/ableton_push) - A variety of custom third-party scripts to modify how the Push works.
+* [30 Days of Push](https://www.youtube.com/watch?list=PLliH3RZ5hf8RbOMRkFovLVQ8v2ZSSgEYR&v=VGUphSmK9gY) - 30 Push tutorial videos.
 
 # max4live
 * [Getting Started with M4L](https://www.ableton.com/en/help/article/how-get-started-max-live-9/) - A couple of videos, etc. for getting started with M4L.
