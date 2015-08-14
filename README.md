@@ -3,6 +3,7 @@ A curated list of awesome Ableton-related resources, including tutorials, commun
 
 ### Contents
 - [Getting Started](#getting-started)
+  - [Official Links](#official-links)
   - [Ableton Communities](#ableton-communities)
 - [Instruments](#instruments)
   - [Operator](#operator)
@@ -13,6 +14,8 @@ A curated list of awesome Ableton-related resources, including tutorials, commun
 - [Scripting Live](#scripting-live)
 
 # Getting Started
+
+## Official Links
 * [Ableton Homepage](https://www.ableton.com/) - Official Ableton news, etc.
 * [Download Live](https://www.ableton.com/en/trial/) - Links to downloads for all platforms.
 * [Official Forums](https://forum.ableton.com/) - Ableton's official forum.
