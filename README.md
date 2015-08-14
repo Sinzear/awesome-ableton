@@ -11,6 +11,7 @@ A curated list of awesome Ableton-related resources, including tutorials, commun
 - [Packs](#packs)
 - [Push](#push)
 - [max4live](#max4live)
+- [Addons](#addons)
 
 # Getting Started
 * [Ableton Homepage](https://www.ableton.com/) - Official Ableton news, etc.
@@ -47,3 +48,6 @@ A curated list of awesome Ableton-related resources, including tutorials, commun
 * [Building a virtual analog synth (Eric Ameres)](https://www.youtube.com/watch?v=W2uUbKaZ_9E&list=PL6CE63AB005E84E10) - A walkthrough to building an analog-style synthesizer in M4L.
 * [max4live.com](http://maxforlive.com/) - The central repository of user-created M4L devices.
 * [Max/MSP Subreddit](https://www.reddit.com/r/MaxMSP/) - Max/MSP focused Subreddit. Also discusses M4L.
+
+# Addons
+* [ClyphX](http://beatwise.proboards.com/thread/992/current-version-clyphx-live-8) - Library of clips that may automate Live itself.
