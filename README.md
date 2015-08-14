@@ -22,6 +22,7 @@ A curated list of awesome Ableton-related resources, including tutorials, commun
 * [Download Live](https://www.ableton.com/en/trial/) - Links to downloads for all platforms.
 * [Official Forums](https://forum.ableton.com/) - Ableton's official forum.
 * [User Groups](https://www.ableton.com/en/community/user-groups) - Official listing of Ableton User Groups.
+* [Manual](https://www.ableton.com/en/manual/welcome-to-live/) - Official Ableton manual.
 
 ### Ableton Communities
 * [Ableton Subreddit](https://www.reddit.com/r/ableton) - Largest Subreddit.
@@ -34,6 +35,7 @@ A curated list of awesome Ableton-related resources, including tutorials, commun
 
 # Audio Effects
 * [Device Tutorials (Deeflash)](https://www.youtube.com/playlist?list=PLYag5TdGzlpCLg0AgfICu7RncfbeCESrg) - Short tutorials for all of Live's audio devices.
+* [Audio Effects Tutorials (MrBill)](http://mrbillstunes.com/ableton-tutorials/ableton-devices/audio-effects/) - Audio effect device tutorials by the incredible MrBill.
 
 # Packs
 * [Official Packs](https://www.ableton.com/en/packs/) - Official Packs published by Ableton, many of them coming for free with Suite edition. †
