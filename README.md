@@ -1,8 +1,6 @@
 # awesome-ableton
 
-A curated list of awesome Ableton-related resources, including tutorials, communities, videos, and more. To contribute, read the [CONTRIBUTING](https://github.com/cfdrake/awesome-ableton/blob/master/CONTRIBUTING.md) file.
-
-† indicates a resource that contains at least _some_ non-free content. Ideally, I'd like to keep these to a minimum, if possible.
+A curated list of awesome Ableton-related resources, including tutorials, communities, videos, and more. To contribute, read the [Contributing](https://github.com/cfdrake/awesome-ableton/blob/master/CONTRIBUTING.md) file. A "†" indicates a resource that contains at least _some_ non-free content. Ideally, I'd like to keep these to a minimum, if possible.
 
 ### Contents
 
