@@ -1,4 +1,5 @@
-# awesome-ableton
+![Awesome Ableton](https://raw.githubusercontent.com/cfdrake/awesome-ableton/master/awesome-ableton-logo.png)
+
 A curated list of awesome Ableton-related resources, including tutorials, communities, videos, and more. To contribute, read the [Contributing](https://github.com/cfdrake/awesome-ableton/blob/master/CONTRIBUTING.md) file. A "†" indicates a resource that contains at least _some_ non-free content. Ideally, I'd like to keep these to a minimum, if possible.
 
 ### Contents
