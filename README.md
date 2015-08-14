@@ -57,7 +57,7 @@ A curated list of awesome Ableton-related resources, including tutorials, commun
 * [max4live.com](http://maxforlive.com/) - The central repository of user-created M4L devices.
 * [Max/MSP Subreddit](https://www.reddit.com/r/MaxMSP/) - Max/MSP focused Subreddit. Also discusses M4L.
 
-## Scripting Live
+# Scripting Live
 * [Third Party Scripts](https://www.ableton.com/en/help/article/install-third-party-remote-script/) - How to install third party scripts.
 * [Live 9.2 API Documentation](http://julienbayle.net/PythonLiveAPI_documentation/Live9.2.xml) - Python API.
 * [ClyphX](http://beatwise.proboards.com/thread/992/current-version-clyphx-live-8) - Library of clips that may automate Live itself.
