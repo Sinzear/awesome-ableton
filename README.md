@@ -17,19 +17,19 @@ A curated list of awesome Ableton-related resources, including tutorials, commun
 
 # Getting Started
 
-## Official Links
+### Official Links
 * [Ableton Homepage](https://www.ableton.com/) - Official Ableton news, etc.
 * [Download Live](https://www.ableton.com/en/trial/) - Links to downloads for all platforms.
 * [Official Forums](https://forum.ableton.com/) - Ableton's official forum.
 * [User Groups](https://www.ableton.com/en/community/user-groups) - Official listing of Ableton User Groups.
 
-## Ableton Communities
+### Ableton Communities
 * [Ableton Subreddit](https://www.reddit.com/r/ableton) - Largest Subreddit.
 * [AbletonLive Subreddit](https://www.reddit.com/r/abletonlive) - Second largest Subreddit.
 
 # Instruments
 
-## Operator
+### Operator
 * [Nicks Tutorials - Operator](http://nickstutorials.com/product/sound-design-in-ableton-live-operator-video-tutorials/) - An excellent video tutorial series covering FM synthesis and sound design with Operator. †
 
 # Audio Effects
@@ -47,12 +47,12 @@ A curated list of awesome Ableton-related resources, including tutorials, commun
 
 # max4live
 
-## M4L Tutorials
+### M4L Tutorials
 * [Getting Started with M4L](https://www.ableton.com/en/help/article/how-get-started-max-live-9/) - A couple of videos, etc. for getting started with M4L.
 * [Learning M4L (Eric Ameres)](https://www.youtube.com/watch?v=gP0hjBvi0NY&list=PL592456DB33616258) - A video series covering M4L basics.
 * [Building a virtual analog synth (Eric Ameres)](https://www.youtube.com/watch?v=W2uUbKaZ_9E&list=PL6CE63AB005E84E10) - A walkthrough to building an analog-style synthesizer in M4L.
 
-## M4L Communities
+### M4L Communities
 * [Cycling '74 M4L Support Forums](https://cycling74.com/forums/forum/max/#gsc.tab=0) - Official C74 forums for M4L.
 * [max4live.com](http://maxforlive.com/) - The central repository of user-created M4L devices.
 * [Max/MSP Subreddit](https://www.reddit.com/r/MaxMSP/) - Max/MSP focused Subreddit. Also discusses M4L.
